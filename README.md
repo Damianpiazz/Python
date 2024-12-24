@@ -1,2 +1,2 @@
 # Python
-Guía práctica de programación en Python. Este repositorio contiene ejemplos y explicaciones diseñados para aprender los fundamentos del lenguaje Python, incluyendo variables, tipos de datos, definición y uso de variables, operadores aritméticos, lógicos y de comparación, ...
+Python 3.11.2
